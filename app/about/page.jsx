@@ -38,7 +38,7 @@ export default function About() {
               {t.about.ubicacion}
             </p>
             <p className="text-lg leading-relaxed">
-              {t.about.uno} <strong>Alex Casimiro</strong>, {t.about.dos}{' '}
+              {t.about.uno} <strong>Felix Casimiro</strong>, {t.about.dos}{' '}
               <strong>{t.about.tres}</strong>, {t.about.cuatro}
             </p>
             <p className="text-lg leading-relaxed">

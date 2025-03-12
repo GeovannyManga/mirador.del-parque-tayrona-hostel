@@ -40,10 +40,10 @@ export const locales = {
         description3: "Llega a la entrada principal del parque."
       },
       about:{
-        welcome: "Bienvenidos a Eden Tayrona Park",
+        welcome: "Bienvenidos a Mirador Del Parque Tayrona Hostel",
         ubicacion: " Ubicado en el corazón del Parque Nacional Natural Tayrona, Eden Tayrona Park es un lugar ideal para familias y turistas que buscan una experiencia única en la naturaleza. Nuestro hostal ofrece un entorno tranquilo y cómodo, rodeado de la belleza natural que caracteriza esta increíble región.",
         uno: "Fundado y dirigido por",
-        dos: "Eden Tayrona Park combina hospitalidad cálida con instalaciones diseñadas para tu confort. Además de nuestro alojamiento, ofrecemos un restaurante donde puedes disfrutar de",
+        dos: "Mirador Del Parque Tayrona Hostel combina hospitalidad cálida con instalaciones diseñadas para tu confort. Además de nuestro alojamiento, ofrecemos un restaurante donde puedes disfrutar de",
         tres: "comidas típicas",
         cuatro: "elaboradas con ingredientes locales para deleitar tu paladar.",
         cinco: "Ya sea que estés planeando unas vacaciones familiares, una escapada romántica o una aventura solitario, en Eden Tayrona Park te garantizamos una experiencia inolvidable.",
@@ -105,10 +105,10 @@ export const locales = {
         description3: "Arrive at the park's main entrance."
       },
       about: {
-        welcome: "Welcome to Eden Tayrona Park",
+        welcome: "Welcome to Mirador Del Parque Tayrona Hostel",
         ubicacion: "Located in the heart of the Tayrona National Natural Park, Eden Tayrona Park is an ideal place for families and tourists seeking a unique experience in nature. Our hostel offers a tranquil and comfortable environment, surrounded by the natural beauty that characterizes this incredible region.",
         uno: "Founded and managed by",
-        dos: "Eden Tayrona Park combines warm hospitality with facilities designed for your comfort. In addition to our accommodation, we offer a restaurant where you can enjoy",
+        dos: "Mirador Del Parque Tayrona Hostel combines warm hospitality with facilities designed for your comfort. In addition to our accommodation, we offer a restaurant where you can enjoy",
         tres: "traditional dishes",
         cuatro: "prepared with local ingredients to delight your palate.",
          cinco: "Whether you're planning a family vacation, a romantic getaway, or a solo adventure, at Eden Tayrona Park we guarantee you an unforgettable experience.",
