@@ -41,7 +41,7 @@ export const locales = {
       },
       about:{
         welcome: "Bienvenidos a Mirador Del Parque Tayrona Hostel",
-        ubicacion: " Ubicado en el corazón del Parque Nacional Natural Tayrona, Eden Tayrona Park es un lugar ideal para familias y turistas que buscan una experiencia única en la naturaleza. Nuestro hostal ofrece un entorno tranquilo y cómodo, rodeado de la belleza natural que caracteriza esta increíble región.",
+        ubicacion: " Ubicado en el corazón del Parque Nacional Natural Tayrona, Mirador Del Parque Tayrona Hostel es un lugar ideal para familias y turistas que buscan una experiencia única en la naturaleza. Nuestro hostal ofrece un entorno tranquilo y cómodo, rodeado de la belleza natural que caracteriza esta increíble región.",
         uno: "Fundado y dirigido por",
         dos: "Mirador Del Parque Tayrona Hostel combina hospitalidad cálida con instalaciones diseñadas para tu confort. Además de nuestro alojamiento, ofrecemos un restaurante donde puedes disfrutar de",
         tres: "comidas típicas",
@@ -106,7 +106,7 @@ export const locales = {
       },
       about: {
         welcome: "Welcome to Mirador Del Parque Tayrona Hostel",
-        ubicacion: "Located in the heart of the Tayrona National Natural Park, Eden Tayrona Park is an ideal place for families and tourists seeking a unique experience in nature. Our hostel offers a tranquil and comfortable environment, surrounded by the natural beauty that characterizes this incredible region.",
+        ubicacion: "Located in the heart of the Tayrona National Natural Park, Mirador Del Parque Tayrona Hostel is an ideal place for families and tourists seeking a unique experience in nature. Our hostel offers a tranquil and comfortable environment, surrounded by the natural beauty that characterizes this incredible region.",
         uno: "Founded and managed by",
         dos: "Mirador Del Parque Tayrona Hostel combines warm hospitality with facilities designed for your comfort. In addition to our accommodation, we offer a restaurant where you can enjoy",
         tres: "traditional dishes",
