@@ -45,7 +45,7 @@ export default function About() {
               {t.about.cinco}
             </p>
             <a
-              href="https://wa.me/3508676834?text=Hola Eden Tayrona Park%2C%20estoy%20interesado%20en%20su%20servicio%20de%20alojamiento%20¿podrian%20darme%20mas%20informacion?"
+              href="https://wa.me/573004123014?text=Hola Mirador Del Parque Tayrona Hostel%2C%20estoy%20interesado%20en%20su%20servicio%20de%20alojamiento%20¿podrian%20darme%20mas%20informacion?"
               className="text-center mt-4 inline-block bg-green-600 text-white py-4 px-8 rounded-lg shadow-md hover:bg-green-700 transition"
             >
               {t.about.seis}
