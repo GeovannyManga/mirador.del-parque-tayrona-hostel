@@ -69,7 +69,7 @@ export default function NavBar() {
           <Link href="/" onClick={() => setMenuOpen(false)} className="hover:bg-gray-600 w-full text-center py-2">{t.menu.home}</Link>
           <Link href="/#servicios" onClick={() => { handleScrollToSection(); setMenuOpen(false); }} className="hover:bg-gray-600 w-full text-center py-2">{t.menu.servicios}</Link>
           <Link href="/about" onClick={() => setMenuOpen(false)} className="hover:bg-gray-600 w-full text-center py-2">{t.menu.sobre}</Link>
-          <Link href="https://wa.me/3508676834?text=Hola%20Eden%20Tayrona%20Park%2C%20estoy%20interesado%20en%20su%20servicio%20de%20alojamiento%20¿podrian%20darme%20mas%20informacion?" className="hover:bg-gray-600 w-full text-center py-2">{t.menu.contacto}</Link>
+          <Link href="https://wa.me/573004123014?text=Hola%20Mirador%20Del Parque tayrona%20Hostel%2C%20estoy%20interesado%20en%20su%20servicio%20de%20alojamiento%20¿podrian%20darme%20mas%20informacion?" className="hover:bg-gray-600 w-full text-center py-2">{t.menu.contacto}</Link>
           <select
             onChange={(e) => switchLanguage(e.target.value)}
             className="bg-white text-black p-2 rounded-md border border-white/40 shadow-sm focus:outline-none"
