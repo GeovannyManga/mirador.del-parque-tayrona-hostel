@@ -74,7 +74,7 @@ const PhotoCarousel = () => {
       >
         <Text text1={t.welcome.bien}/>
         <Text text1={t.welcome.eden}/>
-        <a aria-label='contacta por whatsapp para mas informacion' href="https://wa.me/3508676834?text=Hola Eden Tayrona Park%2C%20estoy%20interesado%20en%20su%20servicio%20de%20alojamiento%20¿podrian%20darme%20mas%20informacion?">
+        <a aria-label='contacta por whatsapp para mas informacion' href="https://wa.me/573004123014?text=Hola Mirador Del Parque Tayrona Hostel%2C%20estoy%20interesado%20en%20su%20servicio%20de%20alojamiento%20¿podrian%20darme%20mas%20informacion?">
           <div className={`flex mt-10 w-40 h-12 bg-green-700 hover:bg-green-900	rounded-lg font-semibold ${raleway.className} items-center justify-center color-white`}>{t.welcome.contact}</div>
         </a>
       </div>
